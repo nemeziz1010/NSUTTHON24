@@ -23,7 +23,7 @@ An exclusive admin panel is available for event organizers to check team details
 - **Backend**: Node.js + Express (REST API)
 - **Frontend**: React.js
 
-Check out the backend repository [here](https://github.com/Frostbite-ai/NSUTTHON-BACKEND).
+Check out the backend repository [here](https://github.com/nemeziz1010/NSUTTHON2024-BACKEND).
 
 ## 🤝 Contributing
 We welcome contributions from everyone! Feel free to open an issue, submit a pull request, or suggest improvements. Your ideas and contributions are highly valued and crucial for the continuous improvement of this project.
