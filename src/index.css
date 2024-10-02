@@ -15,6 +15,14 @@
   background: linear-gradient(to top, hsl(0, 0%, 3.9%) 0%, transparent); /* Use a darker color and start color transition immediately */
 }
 
+.left-section {
+  background-color: rgb(231, 231, 231);
+}
+
+.dark .left-section {
+  background-color: rgb(25, 25, 25);
+}
+
 
 /* Custom font import */
 @font-face {
