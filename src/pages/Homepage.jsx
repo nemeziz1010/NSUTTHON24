@@ -84,9 +84,9 @@ export function HomePage() {
       </section>
  <footer className="flex justify-center flex-col sm:justify-end text-xs text-gray-500  pb-2 pt-6 opacity-80 font-georgia">
     <span className=" text-right hidden sm:block">
-        © 2023 NSUTTHON. Developed by <a href="https://www.linkedin.com/in/vaibhavmeena1/" target="_blank" rel="noopener noreferrer">Vaibhav Meena</a>.
+        © 2024 NSUTTHON. Developed by <a href="https://www.linkedin.com/in/vaibhavmeena1/" target="_blank" rel="noopener noreferrer">Vaibhav Meena</a>.
     </span>
-    <div className="  sm:hidden text-center">© 2023 NSUTTHON</div>
+    <div className="  sm:hidden text-center">© 2024 NSUTTHON</div>
     <div className=" sm:hidden text-center">
         Developed by <a href="https://www.linkedin.com/in/vaibhavmeena1/" target="_blank" rel="noopener noreferrer">Vaibhav Meena</a>
     </div>
@@ -103,7 +103,7 @@ export function HomePage() {
         </div>
         <footer className=" flex flex-col w-full  sm:justify-end  mb-4 text-right  text-xs text-gray-500 py-2 opacity-80 font-georgia">
           <span className="text-right justify-end items-end hidden sm:flex">
-            © 2023 NSUTTHON. Developed by&nbsp;
+            © 2024 NSUTTHON. Developed by&nbsp;
             <a
               href="https://www.linkedin.com/in/vaibhavmeena1/"
               target="_blank"
@@ -114,7 +114,7 @@ export function HomePage() {
             .
           </span>
 
-          <div className="sm:hidden text-center">© 2023 NSUTTHON</div>
+          <div className="sm:hidden text-center">© 2024 NSUTTHON</div>
           <div className="sm:hidden text-center">
             Developed by&nbsp;
             <a
@@ -131,7 +131,7 @@ export function HomePage() {
       {/* <footer style={{ ...styles.section }}
  className="flex justify-center flex-col sm:justify-end text-xs text-gray-500  py-2 opacity-80 font-georgia">
           <span className=" text-right hidden sm:block">
-            © 2023 NSUTTHON. Developed by{" "}
+            © 2024 NSUTTHON. Developed by{" "}
             <a
               href="https://www.linkedin.com/in/vaibhavmeena1/"
               target="_blank"
@@ -141,7 +141,7 @@ export function HomePage() {
             </a>
             .
           </span>
-          <div className="  sm:hidden text-center">© 2023 NSUTTHON</div>
+          <div className="  sm:hidden text-center">© 2024 NSUTTHON</div>
           <div className=" sm:hidden text-center">
             Developed by{" "}
             <a
