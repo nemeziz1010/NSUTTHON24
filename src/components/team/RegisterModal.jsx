@@ -212,7 +212,7 @@ function RegisterForm({ numberOfMembers, teamName }) {
 
       {/* CAPTCHA Integration */}
       <div className="py-4">
-        <ReCAPTCHA sitekey={"2"} onChange={onCaptchaChange} />
+        <ReCAPTCHA sitekey={import.meta.env.VITE_CAPTCHA_KEY} onChange={onCaptchaChange} />
       </div>
 
       <Button

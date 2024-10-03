@@ -69,43 +69,44 @@ return (
             Dear Team Leader,
           </h1>
           <p className="mt-4">
-            Congratulations on successfully registering for NSUTthon! Your team ID is {teamId}.
+            Congratulations on successfully registering for NSUTTHON! Your team ID is <span className="font-bold text-[40px]">{teamId}</span>.
           </p>
-
           <p className="mt-4">
-            In order to complete the registration process, we ask that you complete the following steps:
+          Make sure you note down your team ID, as it will be used while registering for the events and to identify your team throughout.
+          </p>
+          <p className="mt-4">
+          In order to complete the registration process, and  get your team verified, complete the registration process.
+          </p>
+          <p className="mt-4">
+          Carefully go through the instructions given below:
           </p>
           <ol className="list-decimal pl-5 mt-2">
             <li>
-              Install the app using the link provided in the Google form.
+            Every team member must register on the stockgro website <a className="font-bold text-blue-500"href="https://community.stockgro.club/form/10312eef-5387-439b-a6fa-d382a1fef702">(click here)</a> and create a profile using their personal email id to complete the first leg of your registration.
             </li>
-            <li>Register on the app.</li>
+            <li>It is the team leader's responsibility to ensure all members complete the task and then submit their screenshots in the google form to completely register and be a part of NSUTTHON.</li>
             <li>
-              Complete the free aptitude test and share the screenshot via the Google form link.
+            For the second part of the registration process, you must fill out this short survey  <a className="font-bold text-blue-500"href="https://docs.google.com/forms/d/e/1FAIpQLSftK9XFBIP7KF4kQriCuNqciEta4iw4sjr3CA5mmiAaclFrRA/viewform">(click here)</a>, and enter details of an school-going child you know, it can be your sibling, relative or neighbour.
             </li>
           </ol>
 
           <p className="mt-4">
-            As the team captain, it is your responsibility to ensure that all members of your team have been registered and have completed the quiz and to submit a screenshot of each member's registration on the Google form.
+          As the team captain, you're responsible for ensuring all team members have registered and you have to submit a screenshot of the same on the google form, positively.
           </p>
           <p className="mt-4">
-            The form requires a screenshot that clearly displays the quiz score of each member.
+          Note: Each member can only register using one email per device. Multiple entries from the same device are prohibited.
           </p>
-          <p className="mt-4">
-            Please be aware that the app is exclusive to Android users. In case you own an I-phone, we recommend registering via the device of a family member or a friend. Your answers to these questions are irrelevant; only completing the quiz is necessary.
-          </p>
-          <p className="mt-4">
-            Multiple entries from the same device are prohibited. Additionally, remember to use a personal ID and not the college one.
-          </p>
+          
           <p className="mt-4 font-semibold">
-            Failure to complete these steps by any of the members will lead to disqualification of the entire team.
+          If your team is unable to complete the tasks, your team will unfortunately be disqualified.
           </p>
           <p className="mt-4">
-            If you have any questions or concerns, please feel free to reach out to us. A link to our Whatsapp group is attached herewith:
-            <a href="https://chat.whatsapp.com/HXhwYaYZoIT0g35UqciwMS" target="_blank" rel="noopener noreferrer"> Whatsapp Group</a>
+            If you have any questions or concerns, please feel free to reach out to us. A link to our Whatsapp group is attached here with:
+            <a href="https://chat.whatsapp.com/IOKnp0w5GhV7wopGc8StZs" target="_blank" rel="noopener noreferrer" className="font-bold"> Whatsapp Group</a>
           </p>
           <p className="mt-4">
-            Google form: <a href="https://forms.gle/jZ1ApAk9VRQqwmc99" target="_blank" rel="noopener noreferrer">https://forms.gle/jZ1ApAk9VRQqwmc99</a>
+          Complete your registration by filling out this Google form: 
+          <a href="https://forms.gle/BSJfaaLhv1jt378Y9" target="_blank" rel="noopener noreferrer"> https://forms.gle/BSJfaaLhv1jt378Y9</a>
           </p>
           <p className="mt-4">
             Best regards, <br />

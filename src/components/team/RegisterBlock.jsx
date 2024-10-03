@@ -202,33 +202,6 @@ const RegisterBlock = forwardRef(
             </div>
           </CSSTransition>
         </div>
-        <div className="flex justify-between gap-2 self-end my-5">
-          <Button
-            variant="outline"
-            className="w-full font-raleway"
-            type="button"
-            onClick={() =>
-              handleCopy({
-                name,
-                email,
-                phone,
-                branch,
-                rollno,
-              })
-            }
-          >
-            <Copy className="h-5 w-5" />
-          </Button>
-    
-          <Button
-            variant="outline"
-            className="w-full font-raleway"
-            type="button"
-            onClick={handlePaste}
-          >
-            <ClipboardPaste className="h-5 w-5" />
-          </Button>
-        </div>
       </div>
     );    
   }
