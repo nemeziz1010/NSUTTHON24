@@ -67,11 +67,14 @@ export function Faq({ showAll }) {
           "4)Enter your team name(it can be anything you like).<br/>" +
           "5) Enter name of your team members (The first member has to be your team leader).<br/>" +
           "6)Enter further details asked.<br/>" +
-          "7)Once done each team member is required to do the following task:<br/>" +
-          "(i)Install PROEDGE app using the given link.<br/>" +
-          "(ii)Register on the app and complete the free amplitude test consisting of 120 questions.<br/>" +
-          "(iii)Make sure you mention 3rd year as your year of study.<br/>" +
-          "8)You will get a team code after being successfully registered, note it down for further use."
+          "7)The team leader will also receive an email containing the following task, EVERY MEMBER NEEDS TO COMPLETE THIS TASK::<br/>" +
+          "(i)Click on the link to StockGro's TRADE-A-THON..<br/>" +
+          "(ii)Create your account on the site.<br/>" +
+          "(iii)Click on JOIN THE CLAN.<br/>" +
+          "(iii)Login using credentials and take a screenshot of the home screen.<br/>"+
+          "(iii)Fill in the survey form of CabEZ, link to which will be in the mail.<br/>"+
+          "(iii)After completion of tasks, the team leader is required to fill the final form, attached in the email, and upload the screenshots taken by all the members.<br/>"+
+          "8)This marks your successful registration. Note down your THON ID for future references."
       },
       {
         id: "item-9",
